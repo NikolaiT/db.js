@@ -1,0 +1,165 @@
+[4/20/2022, 5:34:28 PM] - INFO - db.js - overwriting config key persist_after_MB=20
+[4/20/2022, 5:34:28 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:34:28 PM] - INFO - db.js - overwriting config key database_path=./gamma_db/
+[4/20/2022, 5:34:28 PM] - INFO - db.js - overwriting config key logfile_path=./gamma_logfile.log
+[4/20/2022, 5:34:28 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:34:28 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:34:28 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:34:28 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:34:28 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:34:28 PM] - INFO - db.js - creating database folder ./gamma_db/
+[4/20/2022, 5:34:28 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:34:28 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 20,
+  "persist_after_seconds": 7,
+  "database_path": "./gamma_db/",
+  "logfile_path": "./gamma_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:34:28 PM] - INFO - [INFO] - Database path: ./gamma_db/
+[4/20/2022, 5:34:28 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:34:28 PM] - INFO - [INFO] - Database index size: 0
+[4/20/2022, 5:34:28 PM] - INFO - [INFO] - Database reverse index size: 0
+[4/20/2022, 5:34:28 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:34:28 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650468868436.json
+[4/20/2022, 5:34:28 PM] - INFO - [INFO] - File: 1650468868436.json - Length: 0
+[4/20/2022, 5:34:28 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:34:32 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:34:32 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:34:32 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:34:32 PM] - INFO - db.js - delta:  4.006s
+[4/20/2022, 5:34:36 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:34:36 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:34:36 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:34:36 PM] - INFO - db.js - delta:  8.006s
+[4/20/2022, 5:34:36 PM] - INFO - db.js - Cache age exceeded time threshold: 7s
+[4/20/2022, 5:34:36 PM] - INFO - db.js - Archived file with 12 stored objects 1650468868436.json --> gamma_db/dbjs_1650468868436.json
+[4/20/2022, 5:34:40 PM] - INFO - db.js - close()
+[4/20/2022, 5:34:40 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:34:40 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:34:40 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:34:40 PM] - INFO - db.js - delta:  3.764s
+[4/20/2022, 5:34:40 PM] - INFO - db.js - overwriting config key persist_after_MB=20
+[4/20/2022, 5:34:40 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:34:40 PM] - INFO - db.js - overwriting config key database_path=./gamma_db/
+[4/20/2022, 5:34:40 PM] - INFO - db.js - overwriting config key logfile_path=./gamma_logfile.log
+[4/20/2022, 5:34:40 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:34:40 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:34:40 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:34:40 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:34:40 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:34:40 PM] - INFO - db.js - Loaded cache from file 1650468876443.json
+[4/20/2022, 5:34:40 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:34:40 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 20,
+  "persist_after_seconds": 7,
+  "database_path": "./gamma_db/",
+  "logfile_path": "./gamma_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:34:40 PM] - INFO - [INFO] - Database path: ./gamma_db/
+[4/20/2022, 5:34:40 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:34:40 PM] - INFO - [INFO] - Database index size: 21
+[4/20/2022, 5:34:40 PM] - INFO - [INFO] - Database reverse index size: 21
+[4/20/2022, 5:34:40 PM] - INFO - [INFO] - Cache size: 9
+[4/20/2022, 5:34:40 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650468876443.json,dbjs_1650468868436.json
+[4/20/2022, 5:34:40 PM] - INFO - [INFO] - File: 1650468876443.json - Length: 9
+[4/20/2022, 5:34:40 PM] - INFO - [INFO] - File: dbjs_1650468868436.json - Length: 12
+[4/20/2022, 5:34:40 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:34:40 PM] - INFO - db.js - getn() - start_index=0, end_index=1000 cannot be larger than index size 21
+[4/20/2022, 5:34:40 PM] - INFO - db.js - getn() - start_index=0, end_index=21
+[4/20/2022, 5:34:40 PM] - INFO - db.js - to_load from files: dbjs_1650468868436.json
+[4/20/2022, 5:34:40 PM] - INFO - db.js - getn() has to load from disk 1/1 up to file 1650468868436.json
+[4/20/2022, 5:34:43 PM] - INFO - db.js - _on_kill() - SIGINT
+[4/20/2022, 5:34:43 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:34:43 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:34:43 PM] - INFO - db.js - cache size:  0.002mb
+[4/20/2022, 5:34:43 PM] - INFO - db.js - delta:  3.115s
+[4/20/2022, 5:34:46 PM] - INFO - db.js - overwriting config key persist_after_MB=20
+[4/20/2022, 5:34:46 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:34:46 PM] - INFO - db.js - overwriting config key database_path=./gamma_db/
+[4/20/2022, 5:34:46 PM] - INFO - db.js - overwriting config key logfile_path=./gamma_logfile.log
+[4/20/2022, 5:34:46 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:34:46 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:34:46 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:34:46 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:34:46 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:34:46 PM] - INFO - db.js - Loaded cache from file 1650468876443.json
+[4/20/2022, 5:34:46 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 20,
+  "persist_after_seconds": 7,
+  "database_path": "./gamma_db/",
+  "logfile_path": "./gamma_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - Database path: ./gamma_db/
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - Database index size: 211
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - Database reverse index size: 211
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - Cache size: 199
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650468876443.json,dbjs_1650468868436.json
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - File: 1650468876443.json - Length: 199
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - File: dbjs_1650468868436.json - Length: 12
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 20,
+  "persist_after_seconds": 7,
+  "database_path": "./gamma_db/",
+  "logfile_path": "./gamma_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - Database path: ./gamma_db/
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - Database index size: 211
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - Database reverse index size: 211
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - Cache size: 199
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650468876443.json,dbjs_1650468868436.json
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - File: 1650468876443.json - Length: 199
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - File: dbjs_1650468868436.json - Length: 12
+[4/20/2022, 5:34:46 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:34:50 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:34:50 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:34:50 PM] - INFO - db.js - cache size:  0.002mb
+[4/20/2022, 5:34:50 PM] - INFO - db.js - delta:  4.007s
+[4/20/2022, 5:34:51 PM] - INFO - db.js - _on_kill() - SIGINT
+[4/20/2022, 5:34:51 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:34:51 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:34:51 PM] - INFO - db.js - cache size:  0.002mb
+[4/20/2022, 5:34:51 PM] - INFO - db.js - delta:  5.221s

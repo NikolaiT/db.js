@@ -1,0 +1,1093 @@
+[4/9/2022, 12:04:57 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/9/2022, 12:04:57 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/9/2022, 12:04:57 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/9/2022, 12:04:57 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/9/2022, 12:04:57 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/9/2022, 12:04:57 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/9/2022, 12:04:57 PM] - INFO - db.js - overwriting config key debug=false
+[4/9/2022, 12:05:05 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/9/2022, 12:05:05 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/9/2022, 12:05:05 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/9/2022, 12:05:05 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/9/2022, 12:05:05 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/9/2022, 12:05:05 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/9/2022, 12:05:05 PM] - INFO - db.js - overwriting config key debug=false
+[4/9/2022, 12:59:21 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/9/2022, 12:59:21 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/9/2022, 12:59:21 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/9/2022, 12:59:21 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/9/2022, 12:59:21 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/9/2022, 12:59:21 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/9/2022, 12:59:21 PM] - INFO - db.js - overwriting config key debug=false
+[4/9/2022, 12:59:29 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/9/2022, 12:59:29 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/9/2022, 12:59:29 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/9/2022, 12:59:29 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/9/2022, 12:59:29 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/9/2022, 12:59:29 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/9/2022, 12:59:29 PM] - INFO - db.js - overwriting config key debug=false
+[4/9/2022, 1:06:09 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/9/2022, 1:06:09 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/9/2022, 1:06:09 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/9/2022, 1:06:09 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/9/2022, 1:06:09 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/9/2022, 1:06:09 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/9/2022, 1:06:09 PM] - INFO - db.js - overwriting config key debug=false
+[4/9/2022, 1:06:18 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/9/2022, 1:06:18 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/9/2022, 1:06:18 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/9/2022, 1:06:18 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/9/2022, 1:06:18 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/9/2022, 1:06:18 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/9/2022, 1:06:18 PM] - INFO - db.js - overwriting config key debug=false
+[4/20/2022, 4:53:04 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 4:53:04 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 4:53:04 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 4:53:04 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 4:53:04 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 4:53:04 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 4:53:04 PM] - INFO - db.js - overwriting config key debug=false
+[4/20/2022, 4:53:12 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 4:53:12 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 4:53:12 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 4:53:12 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 4:53:12 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 4:53:12 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 4:53:12 PM] - INFO - db.js - overwriting config key debug=false
+[4/20/2022, 5:04:57 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:04:57 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:04:57 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:04:57 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:04:57 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:04:57 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:04:57 PM] - INFO - db.js - overwriting config key debug=false
+[4/20/2022, 5:05:10 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:05:10 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:05:10 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:05:10 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:05:10 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:05:10 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:05:10 PM] - INFO - db.js - overwriting config key debug=false
+[4/20/2022, 5:12:14 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:12:14 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:12:14 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:12:14 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:12:14 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:12:14 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:12:14 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:12:14 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:12:14 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:12:14 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:12:14 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:12:14 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:12:14 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:12:14 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:12:14 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:12:14 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:12:14 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:12:14 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650467534678.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:12:14 PM] - INFO - [INFO] - File: 1650467534678.json - Length: 0
+[4/20/2022, 5:12:14 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:12:14 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:12:14 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:12:14 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:12:14 PM] - INFO - db.js - _on_kill() - uncaughtException
+[4/20/2022, 5:12:14 PM] - INFO - db.js - _on_kill() - uncaughtException - TypeError: db_js.size is not a function
+[4/20/2022, 5:12:14 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:12:14 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:12:14 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:12:14 PM] - INFO - db.js - delta:  0.003s
+[4/20/2022, 5:14:39 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:14:39 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:14:39 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:14:39 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:14:39 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:14:39 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:14:39 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:14:39 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:14:39 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:14:39 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:14:39 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:14:39 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:14:39 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:14:39 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:14:39 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:14:39 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:14:39 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:14:39 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650467679269.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:14:39 PM] - INFO - [INFO] - File: 1650467679269.json - Length: 0
+[4/20/2022, 5:14:39 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:14:39 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:14:39 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:14:39 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:14:39 PM] - INFO - db.js - _on_kill() - uncaughtException
+[4/20/2022, 5:14:39 PM] - INFO - db.js - _on_kill() - uncaughtException - TypeError: db_js.size is not a function
+[4/20/2022, 5:14:39 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:14:39 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:14:39 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:14:39 PM] - INFO - db.js - delta:  0.004s
+[4/20/2022, 5:15:31 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:15:31 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:15:31 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:15:31 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:15:31 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:15:31 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:15:31 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:15:31 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:15:31 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:15:31 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:15:31 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:15:31 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:15:31 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:15:31 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:15:31 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:15:31 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:15:31 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:15:31 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650467731350.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:15:31 PM] - INFO - [INFO] - File: 1650467731350.json - Length: 0
+[4/20/2022, 5:15:31 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:15:31 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:15:31 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:15:31 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:15:31 PM] - INFO - db.js - _on_kill() - uncaughtException
+[4/20/2022, 5:15:31 PM] - INFO - db.js - _on_kill() - uncaughtException - TypeError: db_js.size is not a function
+[4/20/2022, 5:15:31 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:15:31 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:15:31 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:15:31 PM] - INFO - db.js - delta:  0.004s
+[4/20/2022, 5:15:40 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:15:40 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:15:40 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:15:40 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:15:40 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:15:40 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:15:40 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:15:40 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:15:40 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:15:40 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:15:40 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:15:40 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:15:40 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:15:40 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:15:40 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:15:40 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:15:40 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:15:40 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650467740762.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:15:40 PM] - INFO - [INFO] - File: 1650467740762.json - Length: 0
+[4/20/2022, 5:15:40 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:15:40 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:15:40 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:15:40 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:15:40 PM] - INFO - db.js - _on_kill() - uncaughtException
+[4/20/2022, 5:15:40 PM] - INFO - db.js - _on_kill() - uncaughtException - TypeError: db_js.size is not a function
+[4/20/2022, 5:15:40 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:15:40 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:15:40 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:15:40 PM] - INFO - db.js - delta:  0.004s
+[4/20/2022, 5:16:47 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:16:47 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:16:47 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:16:47 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:16:47 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:16:47 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:16:47 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:16:47 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:16:47 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:16:47 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:16:47 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:16:47 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:16:47 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:16:47 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:16:47 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:16:47 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:16:47 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:16:47 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650467807288.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:16:47 PM] - INFO - [INFO] - File: 1650467807288.json - Length: 0
+[4/20/2022, 5:16:47 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:16:47 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:16:47 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:16:47 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:16:47 PM] - INFO - db.js - _on_kill() - uncaughtException
+[4/20/2022, 5:16:47 PM] - INFO - db.js - _on_kill() - uncaughtException - TypeError: db_js.size is not a function
+[4/20/2022, 5:16:47 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:16:47 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:16:47 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:16:47 PM] - INFO - db.js - delta:  0.004s
+[4/20/2022, 5:17:14 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:17:14 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:17:14 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:17:14 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:17:14 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:17:14 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:17:14 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:17:14 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:17:14 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:17:14 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:17:14 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:17:14 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:17:14 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:17:14 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:17:14 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:17:14 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:17:14 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:17:14 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650467834967.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:17:14 PM] - INFO - [INFO] - File: 1650467834967.json - Length: 0
+[4/20/2022, 5:17:14 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:17:14 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:17:14 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:17:14 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:17:14 PM] - INFO - db.js - _on_kill() - uncaughtException
+[4/20/2022, 5:17:14 PM] - INFO - db.js - _on_kill() - uncaughtException - TypeError: db_js.size is not a function - unhandledRejection
+[4/20/2022, 5:17:14 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:17:14 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:17:14 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:17:14 PM] - INFO - db.js - delta:  0.004s
+[4/20/2022, 5:18:05 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:18:05 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:18:05 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:18:05 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:18:05 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:18:05 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:18:05 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:18:05 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:18:05 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:18:05 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:18:05 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:18:05 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:18:05 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:18:05 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:18:05 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:18:05 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:18:05 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:18:05 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650467885219.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:18:05 PM] - INFO - [INFO] - File: 1650467885219.json - Length: 0
+[4/20/2022, 5:18:05 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:18:05 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:18:05 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:18:05 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:18:05 PM] - INFO - db.js - _on_kill() - uncaughtException
+[4/20/2022, 5:18:05 PM] - INFO - db.js - _on_kill() - uncaughtException - [object Arguments]
+[4/20/2022, 5:18:05 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:18:05 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:18:05 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:18:05 PM] - INFO - db.js - delta:  0.004s
+[4/20/2022, 5:18:21 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:18:21 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:18:21 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:18:21 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:18:21 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:18:21 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:18:21 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:18:21 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:18:21 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:18:21 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:18:21 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:18:21 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:18:21 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:18:21 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:18:21 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:18:21 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:18:21 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:18:21 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650467901108.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:18:21 PM] - INFO - [INFO] - File: 1650467901108.json - Length: 0
+[4/20/2022, 5:18:21 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:18:21 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:18:21 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:18:21 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:18:21 PM] - INFO - db.js - _on_kill() - uncaughtException
+[4/20/2022, 5:18:21 PM] - INFO - db.js - _on_kill() - uncaughtException - {"0":"uncaughtException","1":{},"2":"unhandledRejection"}
+[4/20/2022, 5:18:21 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:18:21 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:18:21 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:18:21 PM] - INFO - db.js - delta:  0.004s
+[4/20/2022, 5:18:45 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:18:45 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:18:45 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:18:45 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:18:45 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:18:45 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:18:45 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:18:45 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:18:45 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:18:45 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:18:45 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:18:45 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:18:45 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:18:45 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:18:45 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:18:45 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:18:45 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:18:45 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650467925019.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:18:45 PM] - INFO - [INFO] - File: 1650467925019.json - Length: 0
+[4/20/2022, 5:18:45 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:18:45 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:18:45 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:18:45 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:18:45 PM] - INFO - db.js - _on_kill() - uncaughtException
+[4/20/2022, 5:18:45 PM] - INFO - db.js - _on_kill() - uncaughtException - TypeError: db_js.size is not a function
+[4/20/2022, 5:18:45 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:18:45 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:18:45 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:18:45 PM] - INFO - db.js - delta:  0.004s
+[4/20/2022, 5:20:21 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:20:21 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:20:21 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:20:21 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:20:21 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:20:21 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:20:21 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:20:21 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:20:21 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:20:21 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:20:21 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:20:21 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:20:21 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:20:21 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:20:21 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:20:21 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:20:21 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:20:21 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650468021668.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:20:21 PM] - INFO - [INFO] - File: 1650468021668.json - Length: 0
+[4/20/2022, 5:20:21 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:20:21 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:20:21 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:20:21 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:21:07 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:21:07 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:21:07 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:21:07 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:21:07 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:21:07 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:21:07 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:21:07 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:21:07 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:21:07 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:21:07 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:21:07 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:21:07 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:21:07 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:21:07 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:21:07 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:21:07 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:21:07 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650468067178.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:21:07 PM] - INFO - [INFO] - File: 1650468067178.json - Length: 0
+[4/20/2022, 5:21:07 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:21:07 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:21:07 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:21:07 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:21:07 PM] - INFO - db.js - updating key (test1234) value in file.
+[4/20/2022, 5:21:07 PM] - INFO - db.js - _get_archived_index() index=0, file=1648820673048.json, offset=0, file_index=0
+[4/20/2022, 5:21:07 PM] - INFO - db.js - _get_archived_index() index=0, file=1648820673048.json, offset=0, file_index=0
+[4/20/2022, 5:21:07 PM] - INFO - db.js - updating key (qqqqq) value in file.
+[4/20/2022, 5:21:07 PM] - INFO - db.js - _get_archived_index() index=1, file=1648820673048.json, offset=0, file_index=1
+[4/20/2022, 5:21:07 PM] - INFO - db.js - _get_archived_index() index=1, file=1648820673048.json, offset=0, file_index=1
+[4/20/2022, 5:21:07 PM] - INFO - db.js - getn() - start_index=0, end_index=100000 cannot be larger than index size 28
+[4/20/2022, 5:21:07 PM] - INFO - db.js - getn() - start_index=0, end_index=28
+[4/20/2022, 5:21:07 PM] - INFO - db.js - to_load from files: dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:21:07 PM] - INFO - db.js - getn() has to load from disk 3/3 up to file 1648820673048.json
+[4/20/2022, 5:21:07 PM] - INFO - db.js - getn() - start_index=0, end_index=38
+[4/20/2022, 5:21:07 PM] - INFO - db.js - to_load from files: dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:21:07 PM] - INFO - db.js - getn() has to load from disk 3/3 up to file 1648820673048.json
+[4/20/2022, 5:21:07 PM] - INFO - db.js - getn() - start_index=0, end_index=10
+[4/20/2022, 5:21:07 PM] - INFO - db.js - updating key (4358439jeadslfjs) in memory cache
+[4/20/2022, 5:21:11 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:21:11 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:21:11 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:21:11 PM] - INFO - db.js - delta:  4.006s
+[4/20/2022, 5:21:15 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:21:15 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:21:15 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:21:15 PM] - INFO - db.js - delta:  8.008s
+[4/20/2022, 5:21:15 PM] - INFO - db.js - Cache age exceeded time threshold: 7s
+[4/20/2022, 5:21:15 PM] - INFO - db.js - Archived file with 11 stored objects 1650468067178.json --> test_database_staging/dbjs_1650468067178.json
+[4/20/2022, 5:21:15 PM] - INFO - db.js - close()
+[4/20/2022, 5:21:15 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:21:15 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:21:15 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:21:15 PM] - INFO - db.js - delta:  0.253s
+[4/20/2022, 5:21:15 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:21:15 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:21:15 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:21:15 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:21:15 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:21:15 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:21:15 PM] - INFO - db.js - overwriting config key debug=false
+[4/20/2022, 5:21:23 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:21:23 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:21:23 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:21:23 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:21:23 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:21:23 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:21:23 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:21:23 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:21:23 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:21:23 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:21:23 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:21:23 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:21:23 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:21:23 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:21:23 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:21:23 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:21:23 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:21:23 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650468083190.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:21:23 PM] - INFO - [INFO] - File: 1650468083190.json - Length: 0
+[4/20/2022, 5:21:23 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:21:23 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:21:23 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:21:23 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:21:23 PM] - INFO - db.js - updating key (test1234) value in file.
+[4/20/2022, 5:21:23 PM] - INFO - db.js - _get_archived_index() index=0, file=1648820673048.json, offset=0, file_index=0
+[4/20/2022, 5:21:23 PM] - INFO - db.js - _get_archived_index() index=0, file=1648820673048.json, offset=0, file_index=0
+[4/20/2022, 5:21:23 PM] - INFO - db.js - updating key (qqqqq) value in file.
+[4/20/2022, 5:21:23 PM] - INFO - db.js - _get_archived_index() index=1, file=1648820673048.json, offset=0, file_index=1
+[4/20/2022, 5:21:23 PM] - INFO - db.js - _get_archived_index() index=1, file=1648820673048.json, offset=0, file_index=1
+[4/20/2022, 5:21:23 PM] - INFO - db.js - getn() - start_index=0, end_index=100000 cannot be larger than index size 28
+[4/20/2022, 5:21:23 PM] - INFO - db.js - getn() - start_index=0, end_index=28
+[4/20/2022, 5:21:23 PM] - INFO - db.js - to_load from files: dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:21:23 PM] - INFO - db.js - getn() has to load from disk 3/3 up to file 1648820673048.json
+[4/20/2022, 5:21:23 PM] - INFO - db.js - getn() - start_index=0, end_index=38
+[4/20/2022, 5:21:23 PM] - INFO - db.js - to_load from files: dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:21:23 PM] - INFO - db.js - getn() has to load from disk 3/3 up to file 1648820673048.json
+[4/20/2022, 5:21:23 PM] - INFO - db.js - getn() - start_index=0, end_index=10
+[4/20/2022, 5:21:23 PM] - INFO - db.js - updating key (4358439jeadslfjs) in memory cache
+[4/20/2022, 5:21:27 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:21:27 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:21:27 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:21:27 PM] - INFO - db.js - delta:  4.007s
+[4/20/2022, 5:21:31 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:21:31 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:21:31 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:21:31 PM] - INFO - db.js - delta:  8.009s
+[4/20/2022, 5:21:31 PM] - INFO - db.js - Cache age exceeded time threshold: 7s
+[4/20/2022, 5:21:31 PM] - INFO - db.js - Archived file with 11 stored objects 1650468083190.json --> test_database_staging/dbjs_1650468083190.json
+[4/20/2022, 5:21:31 PM] - INFO - db.js - close()
+[4/20/2022, 5:21:31 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:21:31 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:21:31 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:21:31 PM] - INFO - db.js - delta:  0.25s
+[4/20/2022, 5:21:31 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:21:31 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:21:31 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:21:31 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:21:31 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:21:31 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:21:31 PM] - INFO - db.js - overwriting config key debug=false
+[4/20/2022, 5:22:53 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:22:53 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:22:53 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:22:53 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:22:53 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:22:53 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:22:53 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:22:53 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:22:53 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:22:53 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:22:53 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:22:53 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:22:53 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:22:53 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:22:53 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:22:53 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:22:53 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:22:53 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650468173685.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:22:53 PM] - INFO - [INFO] - File: 1650468173685.json - Length: 0
+[4/20/2022, 5:22:53 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:22:53 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:22:53 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:22:53 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:22:53 PM] - INFO - db.js - updating key (test1234) value in file.
+[4/20/2022, 5:22:53 PM] - INFO - db.js - _get_archived_index() index=0, file=1648820673048.json, offset=0, file_index=0
+[4/20/2022, 5:22:53 PM] - INFO - db.js - _get_archived_index() index=0, file=1648820673048.json, offset=0, file_index=0
+[4/20/2022, 5:22:53 PM] - INFO - db.js - updating key (qqqqq) value in file.
+[4/20/2022, 5:22:53 PM] - INFO - db.js - _get_archived_index() index=1, file=1648820673048.json, offset=0, file_index=1
+[4/20/2022, 5:22:53 PM] - INFO - db.js - _get_archived_index() index=1, file=1648820673048.json, offset=0, file_index=1
+[4/20/2022, 5:22:53 PM] - INFO - db.js - getn() - start_index=0, end_index=100000 cannot be larger than index size 28
+[4/20/2022, 5:22:53 PM] - INFO - db.js - getn() - start_index=0, end_index=28
+[4/20/2022, 5:22:53 PM] - INFO - db.js - to_load from files: dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:22:53 PM] - INFO - db.js - getn() has to load from disk 3/3 up to file 1648820673048.json
+[4/20/2022, 5:22:53 PM] - INFO - db.js - getn() - start_index=0, end_index=38
+[4/20/2022, 5:22:53 PM] - INFO - db.js - to_load from files: dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:22:53 PM] - INFO - db.js - getn() has to load from disk 3/3 up to file 1648820673048.json
+[4/20/2022, 5:22:53 PM] - INFO - db.js - getn() - start_index=0, end_index=10
+[4/20/2022, 5:22:53 PM] - INFO - db.js - updating key (4358439jeadslfjs) in memory cache
+[4/20/2022, 5:22:57 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:22:57 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:22:57 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:22:57 PM] - INFO - db.js - delta:  4.007s
+[4/20/2022, 5:23:01 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:23:01 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:23:01 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:23:01 PM] - INFO - db.js - delta:  8.008s
+[4/20/2022, 5:23:01 PM] - INFO - db.js - Cache age exceeded time threshold: 7s
+[4/20/2022, 5:23:01 PM] - INFO - db.js - Archived file with 11 stored objects 1650468173685.json --> test_database_staging/dbjs_1650468173685.json
+[4/20/2022, 5:23:01 PM] - INFO - db.js - close()
+[4/20/2022, 5:23:01 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:23:01 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:23:01 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:23:01 PM] - INFO - db.js - delta:  0.252s
+[4/20/2022, 5:23:01 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:23:01 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:23:01 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:23:01 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:23:01 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:23:01 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:23:01 PM] - INFO - db.js - overwriting config key debug=false
+[4/20/2022, 5:24:01 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:24:01 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:24:01 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:24:01 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:24:01 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:24:01 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:24:01 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:24:01 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:24:01 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:24:01 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:24:01 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:24:01 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:24:01 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:24:01 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:24:01 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:24:01 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:24:01 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:24:01 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650468241501.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:24:01 PM] - INFO - [INFO] - File: 1650468241501.json - Length: 0
+[4/20/2022, 5:24:01 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:24:01 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:24:01 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:24:01 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:24:01 PM] - INFO - db.js - updating key (test1234) value in file.
+[4/20/2022, 5:24:01 PM] - INFO - db.js - _get_archived_index() index=0, file=1648820673048.json, offset=0, file_index=0
+[4/20/2022, 5:24:01 PM] - INFO - db.js - _get_archived_index() index=0, file=1648820673048.json, offset=0, file_index=0
+[4/20/2022, 5:24:01 PM] - INFO - db.js - updating key (qqqqq) value in file.
+[4/20/2022, 5:24:01 PM] - INFO - db.js - _get_archived_index() index=1, file=1648820673048.json, offset=0, file_index=1
+[4/20/2022, 5:24:01 PM] - INFO - db.js - _get_archived_index() index=1, file=1648820673048.json, offset=0, file_index=1
+[4/20/2022, 5:24:01 PM] - INFO - db.js - getn() - start_index=0, end_index=100000 cannot be larger than index size 28
+[4/20/2022, 5:24:01 PM] - INFO - db.js - getn() - start_index=0, end_index=28
+[4/20/2022, 5:24:01 PM] - INFO - db.js - to_load from files: dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:24:01 PM] - INFO - db.js - getn() has to load from disk 3/3 up to file 1648820673048.json
+[4/20/2022, 5:24:01 PM] - INFO - db.js - getn() - start_index=0, end_index=38
+[4/20/2022, 5:24:01 PM] - INFO - db.js - to_load from files: dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:24:01 PM] - INFO - db.js - getn() has to load from disk 3/3 up to file 1648820673048.json
+[4/20/2022, 5:24:01 PM] - INFO - db.js - getn() - start_index=0, end_index=10
+[4/20/2022, 5:24:01 PM] - INFO - db.js - updating key (4358439jeadslfjs) in memory cache
+[4/20/2022, 5:24:05 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:24:05 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:24:05 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:24:05 PM] - INFO - db.js - delta:  4.006s
+[4/20/2022, 5:24:09 PM] - INFO - db.js - _on_kill() - SIGINT
+[4/20/2022, 5:24:09 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:24:09 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:24:09 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:24:09 PM] - INFO - db.js - delta:  7.574s
+[4/20/2022, 5:24:09 PM] - INFO - db.js - Cache age exceeded time threshold: 7s
+[4/20/2022, 5:24:09 PM] - INFO - db.js - Archived file with 11 stored objects 1650468241501.json --> test_database_staging/dbjs_1650468241501.json
+[4/20/2022, 5:26:24 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:26:24 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:26:24 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:26:24 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:26:24 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:26:24 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:26:24 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:26:24 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:26:24 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:26:24 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:26:24 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:26:24 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:26:24 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:26:24 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:26:24 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:26:24 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:26:24 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:26:24 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650468384576.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:26:24 PM] - INFO - [INFO] - File: 1650468384576.json - Length: 0
+[4/20/2022, 5:26:24 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:26:24 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:26:24 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:26:24 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:26:24 PM] - INFO - db.js - updating key (test1234) value in file.
+[4/20/2022, 5:26:24 PM] - INFO - db.js - _get_archived_index() index=0, file=1648820673048.json, offset=0, file_index=0
+[4/20/2022, 5:26:24 PM] - INFO - db.js - _get_archived_index() index=0, file=1648820673048.json, offset=0, file_index=0
+[4/20/2022, 5:26:24 PM] - INFO - db.js - updating key (qqqqq) value in file.
+[4/20/2022, 5:26:24 PM] - INFO - db.js - _get_archived_index() index=1, file=1648820673048.json, offset=0, file_index=1
+[4/20/2022, 5:26:24 PM] - INFO - db.js - _get_archived_index() index=1, file=1648820673048.json, offset=0, file_index=1
+[4/20/2022, 5:26:24 PM] - INFO - db.js - getn() - start_index=0, end_index=100000 cannot be larger than index size 28
+[4/20/2022, 5:26:24 PM] - INFO - db.js - getn() - start_index=0, end_index=28
+[4/20/2022, 5:26:24 PM] - INFO - db.js - to_load from files: dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:26:24 PM] - INFO - db.js - getn() has to load from disk 3/3 up to file 1648820673048.json
+[4/20/2022, 5:26:24 PM] - INFO - db.js - getn() - start_index=0, end_index=38
+[4/20/2022, 5:26:24 PM] - INFO - db.js - to_load from files: dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:26:24 PM] - INFO - db.js - getn() has to load from disk 3/3 up to file 1648820673048.json
+[4/20/2022, 5:26:24 PM] - INFO - db.js - getn() - start_index=0, end_index=10
+[4/20/2022, 5:26:24 PM] - INFO - db.js - updating key (4358439jeadslfjs) in memory cache
+[4/20/2022, 5:26:28 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:26:28 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:26:28 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:26:28 PM] - INFO - db.js - delta:  4.008s
+[4/20/2022, 5:26:32 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:26:32 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:26:32 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:26:32 PM] - INFO - db.js - delta:  8.009s
+[4/20/2022, 5:26:32 PM] - INFO - db.js - Cache age exceeded time threshold: 7s
+[4/20/2022, 5:26:32 PM] - INFO - db.js - Archived file with 11 stored objects 1650468384576.json --> test_database_staging/dbjs_1650468384576.json
+[4/20/2022, 5:26:32 PM] - INFO - db.js - close()
+[4/20/2022, 5:26:32 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:26:32 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:26:32 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:26:32 PM] - INFO - db.js - delta:  0.252s
+[4/20/2022, 5:26:32 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:26:32 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:26:32 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:26:32 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:26:32 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:26:32 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:26:32 PM] - INFO - db.js - overwriting config key debug=false
+[4/20/2022, 5:29:37 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:29:37 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:29:37 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:29:37 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:29:37 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:29:37 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:29:37 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:29:37 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:29:37 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:29:37 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:29:37 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:29:37 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:29:37 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:29:37 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:29:37 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:29:37 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:29:37 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:29:37 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650468577539.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:29:37 PM] - INFO - [INFO] - File: 1650468577539.json - Length: 0
+[4/20/2022, 5:29:37 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:29:37 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:29:37 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:29:37 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:29:37 PM] - INFO - db.js - updating key (test1234) value in file.
+[4/20/2022, 5:29:37 PM] - INFO - db.js - _get_archived_index() index=0, file=1648820673048.json, offset=0, file_index=0
+[4/20/2022, 5:29:37 PM] - INFO - db.js - _get_archived_index() index=0, file=1648820673048.json, offset=0, file_index=0
+[4/20/2022, 5:29:37 PM] - INFO - db.js - updating key (qqqqq) value in file.
+[4/20/2022, 5:29:37 PM] - INFO - db.js - _get_archived_index() index=1, file=1648820673048.json, offset=0, file_index=1
+[4/20/2022, 5:29:37 PM] - INFO - db.js - _get_archived_index() index=1, file=1648820673048.json, offset=0, file_index=1
+[4/20/2022, 5:29:37 PM] - INFO - db.js - getn() - start_index=0, end_index=100000 cannot be larger than index size 28
+[4/20/2022, 5:29:37 PM] - INFO - db.js - getn() - start_index=0, end_index=28
+[4/20/2022, 5:29:37 PM] - INFO - db.js - to_load from files: dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:29:37 PM] - INFO - db.js - getn() has to load from disk 3/3 up to file 1648820673048.json
+[4/20/2022, 5:29:37 PM] - INFO - db.js - getn() - start_index=0, end_index=38
+[4/20/2022, 5:29:37 PM] - INFO - db.js - to_load from files: dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:29:37 PM] - INFO - db.js - getn() has to load from disk 3/3 up to file 1648820673048.json
+[4/20/2022, 5:29:37 PM] - INFO - db.js - getn() - start_index=0, end_index=10
+[4/20/2022, 5:29:37 PM] - INFO - db.js - updating key (4358439jeadslfjs) in memory cache
+[4/20/2022, 5:29:41 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:29:41 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:29:41 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:29:41 PM] - INFO - db.js - delta:  4.007s
+[4/20/2022, 5:29:45 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:29:45 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:29:45 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:29:45 PM] - INFO - db.js - delta:  8.005s
+[4/20/2022, 5:29:45 PM] - INFO - db.js - Cache age exceeded time threshold: 7s
+[4/20/2022, 5:29:45 PM] - INFO - db.js - Archived file with 11 stored objects 1650468577539.json --> test_database_staging/dbjs_1650468577539.json
+[4/20/2022, 5:29:45 PM] - INFO - db.js - close()
+[4/20/2022, 5:29:45 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:29:45 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:29:45 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:29:45 PM] - INFO - db.js - delta:  0.256s
+[4/20/2022, 5:29:45 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:29:45 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:29:45 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:29:45 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:29:45 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:29:45 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:29:45 PM] - INFO - db.js - overwriting config key debug=false
+[4/20/2022, 5:33:59 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:33:59 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:33:59 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:33:59 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:33:59 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:33:59 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:33:59 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:33:59 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:33:59 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:33:59 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:33:59 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:33:59 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:33:59 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:33:59 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:33:59 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:33:59 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:33:59 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:33:59 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650468839582.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:33:59 PM] - INFO - [INFO] - File: 1650468839582.json - Length: 0
+[4/20/2022, 5:33:59 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:33:59 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:33:59 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:33:59 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:33:59 PM] - INFO - db.js - updating key (test1234) value in file.
+[4/20/2022, 5:33:59 PM] - INFO - db.js - _get_archived_index() index=0, file=1648820673048.json, offset=0, file_index=0
+[4/20/2022, 5:33:59 PM] - INFO - db.js - _get_archived_index() index=0, file=1648820673048.json, offset=0, file_index=0
+[4/20/2022, 5:33:59 PM] - INFO - db.js - updating key (qqqqq) value in file.
+[4/20/2022, 5:33:59 PM] - INFO - db.js - _get_archived_index() index=1, file=1648820673048.json, offset=0, file_index=1
+[4/20/2022, 5:33:59 PM] - INFO - db.js - _get_archived_index() index=1, file=1648820673048.json, offset=0, file_index=1
+[4/20/2022, 5:33:59 PM] - INFO - db.js - getn() - start_index=0, end_index=100000 cannot be larger than index size 28
+[4/20/2022, 5:33:59 PM] - INFO - db.js - getn() - start_index=0, end_index=28
+[4/20/2022, 5:33:59 PM] - INFO - db.js - to_load from files: dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:33:59 PM] - INFO - db.js - getn() has to load from disk 3/3 up to file 1648820673048.json
+[4/20/2022, 5:33:59 PM] - INFO - db.js - getn() - start_index=0, end_index=38
+[4/20/2022, 5:33:59 PM] - INFO - db.js - to_load from files: dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:33:59 PM] - INFO - db.js - getn() has to load from disk 3/3 up to file 1648820673048.json
+[4/20/2022, 5:33:59 PM] - INFO - db.js - getn() - start_index=0, end_index=10
+[4/20/2022, 5:33:59 PM] - INFO - db.js - updating key (4358439jeadslfjs) in memory cache
+[4/20/2022, 5:34:03 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:34:03 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:34:03 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:34:03 PM] - INFO - db.js - delta:  4.008s
+[4/20/2022, 5:34:07 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:34:07 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:34:07 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:34:07 PM] - INFO - db.js - delta:  8.008s
+[4/20/2022, 5:34:07 PM] - INFO - db.js - Cache age exceeded time threshold: 7s
+[4/20/2022, 5:34:07 PM] - INFO - db.js - Archived file with 11 stored objects 1650468839582.json --> test_database_staging/dbjs_1650468839582.json
+[4/20/2022, 5:34:07 PM] - INFO - db.js - close()
+[4/20/2022, 5:34:07 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:34:07 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:34:07 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:34:07 PM] - INFO - db.js - delta:  0.255s
+[4/20/2022, 5:34:07 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:34:07 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:34:07 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:34:07 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:34:07 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:34:07 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:34:07 PM] - INFO - db.js - overwriting config key debug=false
+[4/20/2022, 5:42:59 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:42:59 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:42:59 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:42:59 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:42:59 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:42:59 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:42:59 PM] - INFO - db.js - overwriting config key debug=true
+[4/20/2022, 5:42:59 PM] - INFO - db.js - overwriting config key max_key_size_bytes=1024
+[4/20/2022, 5:42:59 PM] - INFO - db.js - overwriting config key max_value_size_bytes=1048576
+[4/20/2022, 5:42:59 PM] - INFO - db.js - Creating fresh/empty cache file undefined
+[4/20/2022, 5:42:59 PM] - INFO - db.js - Reverse Index healthy
+[4/20/2022, 5:42:59 PM] - INFO - [INFO] - Config: {
+  "persist_after_MB": 0.05,
+  "persist_after_seconds": 7,
+  "database_path": "./test_database_staging/",
+  "logfile_path": "./alpha_logfile.log",
+  "flush_interval": 4,
+  "file_prefix": "dbjs_",
+  "debug": true,
+  "max_key_size_bytes": 1024,
+  "max_value_size_bytes": 1048576
+}
+[4/20/2022, 5:42:59 PM] - INFO - [INFO] - Database path: ./test_database_staging/
+[4/20/2022, 5:42:59 PM] - INFO - [INFO] - Database archive prefix: dbjs_
+[4/20/2022, 5:42:59 PM] - INFO - [INFO] - Database index size: 28
+[4/20/2022, 5:42:59 PM] - INFO - [INFO] - Database reverse index size: 28
+[4/20/2022, 5:42:59 PM] - INFO - [INFO] - Cache size: 0
+[4/20/2022, 5:42:59 PM] - INFO - [INFO] - Database files (most recently created file first, oldest file last): 1650469379179.json,dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:42:59 PM] - INFO - [INFO] - File: 1650469379179.json - Length: 0
+[4/20/2022, 5:42:59 PM] - INFO - [INFO] - File: dbjs_1648984246813.json - Length: 3
+[4/20/2022, 5:42:59 PM] - INFO - [INFO] - File: dbjs_1648980673605.json - Length: 20
+[4/20/2022, 5:42:59 PM] - INFO - [INFO] - File: dbjs_1648820673048.json - Length: 5
+[4/20/2022, 5:42:59 PM] - INFO - [INFO] - Counters: {
+  "memory_cache_read_counter": 0,
+  "memory_cache_write_counter": 0,
+  "file_cache_read_counter": 0,
+  "file_cache_write_counter": 0
+}
+[4/20/2022, 5:42:59 PM] - INFO - db.js - updating key (test1234) value in file.
+[4/20/2022, 5:42:59 PM] - INFO - db.js - _get_archived_index() index=0, file=1648820673048.json, offset=0, file_index=0
+[4/20/2022, 5:42:59 PM] - INFO - db.js - _get_archived_index() index=0, file=1648820673048.json, offset=0, file_index=0
+[4/20/2022, 5:42:59 PM] - INFO - db.js - updating key (qqqqq) value in file.
+[4/20/2022, 5:42:59 PM] - INFO - db.js - _get_archived_index() index=1, file=1648820673048.json, offset=0, file_index=1
+[4/20/2022, 5:42:59 PM] - INFO - db.js - _get_archived_index() index=1, file=1648820673048.json, offset=0, file_index=1
+[4/20/2022, 5:42:59 PM] - INFO - db.js - getn() - start_index=0, end_index=100000 cannot be larger than index size 28
+[4/20/2022, 5:42:59 PM] - INFO - db.js - getn() - start_index=0, end_index=28
+[4/20/2022, 5:42:59 PM] - INFO - db.js - to_load from files: dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:42:59 PM] - INFO - db.js - getn() has to load from disk 3/3 up to file 1648820673048.json
+[4/20/2022, 5:42:59 PM] - INFO - db.js - getn() - start_index=0, end_index=38
+[4/20/2022, 5:42:59 PM] - INFO - db.js - to_load from files: dbjs_1648984246813.json,dbjs_1648980673605.json,dbjs_1648820673048.json
+[4/20/2022, 5:42:59 PM] - INFO - db.js - getn() has to load from disk 3/3 up to file 1648820673048.json
+[4/20/2022, 5:42:59 PM] - INFO - db.js - getn() - start_index=0, end_index=10
+[4/20/2022, 5:42:59 PM] - INFO - db.js - updating key (4358439jeadslfjs) in memory cache
+[4/20/2022, 5:43:03 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:43:03 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:43:03 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:43:03 PM] - INFO - db.js - delta:  4.01s
+[4/20/2022, 5:43:07 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:43:07 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:43:07 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:43:07 PM] - INFO - db.js - delta:  8.008s
+[4/20/2022, 5:43:07 PM] - INFO - db.js - Cache age exceeded time threshold: 7s
+[4/20/2022, 5:43:07 PM] - INFO - db.js - Archived file with 11 stored objects 1650469379179.json --> test_database_staging/dbjs_1650469379179.json
+[4/20/2022, 5:43:07 PM] - INFO - db.js - close()
+[4/20/2022, 5:43:07 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
+[4/20/2022, 5:43:07 PM] - INFO - db.js - _persist()
+[4/20/2022, 5:43:07 PM] - INFO - db.js - cache size:  0mb
+[4/20/2022, 5:43:07 PM] - INFO - db.js - delta:  0.252s
+[4/20/2022, 5:43:07 PM] - INFO - db.js - overwriting config key persist_after_MB=0.05
+[4/20/2022, 5:43:07 PM] - INFO - db.js - overwriting config key persist_after_seconds=7
+[4/20/2022, 5:43:07 PM] - INFO - db.js - overwriting config key database_path=./test_database_staging/
+[4/20/2022, 5:43:07 PM] - INFO - db.js - overwriting config key logfile_path=./alpha_logfile.log
+[4/20/2022, 5:43:07 PM] - INFO - db.js - overwriting config key flush_interval=4
+[4/20/2022, 5:43:07 PM] - INFO - db.js - overwriting config key file_prefix=dbjs_
+[4/20/2022, 5:43:07 PM] - INFO - db.js - overwriting config key debug=false
