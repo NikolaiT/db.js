@@ -20,29 +20,44 @@ db_js.close();
 
 From the many quick & dirty programming projects I have done in the past, I observed that I often need the following capabilities from databases:
 
-1. Recently stored data should be kept in an in-memory cache, since recent data is queried/updated more often than old data.
-2. I like to store data as JSON in files, since the performance benefits of other data formats don't outweight the easiness to work with JSON.
-3. I don't want to care about when/why/where to persist data. This should be done by db.js in the background in a safe and consistent manner.
-4. No complex SQL query semantic is needed. In fact, the only way I need to query data is:
-  - based on a time range `(ts0, ts1)`
-  - based on an index slice range `(start, stop)`
-  - and if I don't specify any selection criteria, then db.js should just return the memory cache contents
+1. **In-Memory**: Recently stored data should be kept in an in-memory cache, since recent data is read and updated way more frequently than old data. This observation is **paramount!**
+2. **Key-Value semantics:** I like to associate the stored object with an unique key. Therefore, I like to work with key-value storages.
+3. **JSON Format**: I like to store data as JSON in files, since the performance benefits of other data formats don't outweight the easiness to work with JSON. Put differently: I just don't have the time to learn any other data format than JSON. JSON is easily readable and that's what matters most. Everyone understands JSON. There are other things such BSON, but no one really cares about it.
+4. **Persistance:** I don't want to care about when/why/where to persist data. This should be done by `db.js` in the background in a safe and consistent manner. Data is persisted to simple JSON files after the memory-cache reaches a certain age or size.
+5. **No SQL required:** No complex SQL query semantic is needed. In fact, the only way I need to query data is:
+    + base on a key with lookup time `O(1)`
+    + based on a time range `(ts0, ts1)` where `ts0` and `ts1` are both timestamps
+    + based on an index range `(start, stop)` where `start` and `stop` are both integers
+    + if I don't specify any selection criteria, then `db.js` should just return the memory cache contents (lookup time `O(1)`)
+6. **Data does not need to be deleted:** I don't care about deleting data. Delete operations are hard to implement, since a delete operation requires an index and reverse index update. In fact, providing a delete operation doesn't outweigh the complexity introduced by its implementation.
 
-## API
+## db.js API
 
-The db.js API has four methods:
+The db.js API currently has five main API methods:
 
-`set(key, value)` - Assigns the `value` to the `key` in the storage. If the `key` is already in the database, the value will be overwritten/updated. keys are unique.
+#### set(key, value)
 
-`get(key)` - Returns the `value` associated with `key` from the storage. Lookup time: O(1)
+`set(key, value)` - Assigns the `value` to the `key` in the storage. If the `key` is already in the database, the value will be overwritten. keys are unique.
 
-`getn(index_range, time_range)` - Returns an array of values in insertion order. This means that the most recent inserted value (Inserted with `set(key, value)`) is returned as first element of the array. When both `index_range=null` and `time_range=null`, then `getn()` returns the memory cache contents by default.
+#### get(key)
+
+`get(key)` - Returns the `value` associated with `key` from the storage. The lookup time is `O(1)`.
+
+#### getn(index_range, time_range)
+
+`getn(index_range, time_range)` - Returns an array of values in insertion order. This means that the most recent inserted value (Inserted with `set(key, value)`) is returned as first element of the array. When both `index_range=null` and `time_range=null` are set to `null`, then `getn()` returns the memory cache contents by default.
 
 The variable `index_range` selects values to be returned by index range. If you specify `index_range=[0, 500]`, then the last 500 inserted values are returned.
 
 The variable `time_range` selects values to be returned by an timestamp range. If you specify `time_range=[1649418657952, 1649418675192]`, then the items that were inserted between those two timestamps will be returned.
 
-`size()` - Returns the size of the database.
+#### index_size()
+
+`index_size()` - Returns the index size of the database. This is equivalent to the number of all database entries and thus the size of the database.
+
+#### cache_size()
+
+`cache_size()` - Returns the cache size of the database. The cache includes all database entries that are kept in memory.
 
 ## TODO
 
