@@ -58,6 +58,11 @@ class DBjs {
       }
     }
 
+    if (!fs.existsSync(this.config.database_path)) {
+      this._log(`db.js - creating database folder ${this.config.database_path}`);
+      fs.mkdirSync(this.config.database_path);
+    }
+
     this._check_config();
 
     this.cache = [];
@@ -69,12 +74,6 @@ class DBjs {
 
     // used to know when to archive the cache 
     this.started = (new Date()).getTime();
-
-    if (!fs.existsSync(this.config.database_path)) {
-      this._log(`db.js - creating database folder ${this.config.database_path}`);
-      fs.mkdirSync(this.config.database_path);
-    }
-
     this._load_cache();
     this.index = this._load_index();
     this.rindex = this._load_index('rindex.json');
@@ -562,7 +561,9 @@ class DBjs {
     if (this.config.debug) {
       let ts = (new Date()).toLocaleString();
       let output = `[${ts}] - ${level} - ${msg}`;
-      fs.appendFileSync(this.config.logfile_path, output + '\n');
+      if (fs.existsSync(path.dirname(this.config.logfile_path))) {
+        fs.appendFileSync(this.config.logfile_path, output + '\n');
+      }
       console.log(output);
     }
     if (throw_error) {
@@ -891,7 +892,9 @@ class DBjs {
     filtered.sort(function (a, b) {
       let time_a = a.match(regex);
       let time_b = b.match(regex);
-      return time_b[1] - time_a[1];
+      if (time_a && time_b) {
+        return time_b[1] - time_a[1];
+      }
     });
 
     return filtered;
