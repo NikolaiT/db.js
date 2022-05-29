@@ -1,1 +1,4 @@
 database/
+node_modules/
+package-lock.json
+dbjs.log

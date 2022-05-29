@@ -1,4 +1,0 @@
-[5/29/2022, 2:47:32 PM] - INFO - db.js - _flush() - Storing cache/index/reverse index
-[5/29/2022, 2:47:32 PM] - INFO - db.js - _persist()
-[5/29/2022, 2:47:32 PM] - INFO - db.js - cache size:  0.003mb
-[5/29/2022, 2:47:32 PM] - INFO - db.js - delta:  4799.985s
