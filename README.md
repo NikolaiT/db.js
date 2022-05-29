@@ -5,7 +5,7 @@ db.js allows you to work with a key/value data without caring about data persist
 All that db.js gives you is a key/value store. db.js persists data to disk as JSON files periodically and safely.
 
 ```js
-const DBjs = require('./index').DBjs;
+const DBjs = require('./dbjs').DBjs;
 
 let db_js = new DBjs();
 
