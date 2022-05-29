@@ -26,23 +26,23 @@ class DBjs {
         }
 
         this.config = {
-            // after what size in MB the memory cache should be written to disk
+            // after what size in MB the memory cache should be persisted to disk
             persist_after_MB: 20,
-            // after what time in seconds the memory cache should be written to disk
+            // after what time in seconds the memory cache should be persisted to disk
             persist_after_seconds: 12 * 60 * 60,
-            // relative path to database directory
+            // absolute/relative path to database directory
             database_path: './database/',
-            // where to log debug outputs to
+            // path to file where to log debug outputs to
             logfile_path: './dbjs.log',
             // after how many seconds should the cache and index be persisted
             flush_interval: 5 * 60,
             // file prefix for archived files
             file_prefix: 'dbjs_',
-            // whether to print debug messages
-            debug: true,
-            // max key size
+            // whether to print debug output
+            debug: user_config.debug === false ? false : true,
+            // max key size in bytes
             max_key_size_bytes: 1024,
-            // max value size
+            // max value size in bytes
             max_value_size_bytes: 1048576,
         };
 
