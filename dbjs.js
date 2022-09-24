@@ -27,9 +27,9 @@ class DBjs {
 
     this.config = {
       // after what size in MB the memory cache should be persisted to disk
-      persist_after_MB: 20,
+      persist_after_MB: 30,
       // after what time in seconds the memory cache should be persisted to disk
-      persist_after_seconds: 12 * 60 * 60,
+      persist_after_seconds: 18 * 60 * 60,
       // absolute/relative path to database directory
       database_path: './database/',
       // path to file where to log debug outputs to
